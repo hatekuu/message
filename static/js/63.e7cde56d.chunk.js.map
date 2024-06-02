@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/63.e7cde56d.chunk.js","mappings":"qIAEA,MAMA,EANaA,KAETC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,gB","sources":["router/home/home.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst home = () => {\r\n  return (\r\n    <div>This is home</div>\r\n  )\r\n}\r\n\r\nexport default home"],"names":["home","_jsx","children"],"sourceRoot":""}
